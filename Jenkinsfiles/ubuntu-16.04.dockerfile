@@ -1,5 +1,5 @@
 # Start with 16.04
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 # Add steps here to set up dependencies
 RUN apt-get update \
